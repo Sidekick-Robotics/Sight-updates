@@ -1,0 +1,8 @@
+
+Drop down options:
+
+Board: Select Board
+
+Project: C:/Users/alexs/Documents/SideKick/Projects/actuator_test/actuator_test.ino
+
+Lite: False
